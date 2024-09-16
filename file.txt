@@ -1,0 +1,7 @@
+level 1 - CSS Basics
+level 2 - Color System and Background
+level 3 - Text properties
+level 4 - Box Model CSS
+level 5 - Display & Position 
+level 6 - Flex, Grid & Media Queries
+level 7 - Animation ,Transition & Transform
